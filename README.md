@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# ToDo list App Rview
+# ToDo list App Review
 
 > This is a simple HTML /CSS and JavaScript project on list of To Do tasks. This simple web page is built using webpack and served by a webpack dev server
 
